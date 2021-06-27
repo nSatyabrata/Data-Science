@@ -1,0 +1,12 @@
+These are case studies done by using different machine learning algorithims like :
+- Linear Regression
+- Logistic Regression
+- Clustering
+  - K-Mean Clustering
+  - Hierarchical Clustering
+- Tree Models
+  - Random Forest
+- Advance Regression
+  - Lasso Regression
+  - Ridge Regression
+- Principal Component Analysis
