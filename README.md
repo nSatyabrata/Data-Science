@@ -1,4 +1,4 @@
-These are case studies done by using different machine learning algorithims like :
+These are case studies done by using different machine learning algorithims
 - Linear Regression
 - Logistic Regression
 - Clustering
